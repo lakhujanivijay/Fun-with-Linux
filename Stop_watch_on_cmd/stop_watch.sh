@@ -1,9 +1,9 @@
 # A fun stop watch for the command line
 # Usage:
-# stop_watch.sh <time in seconds>
+# sh stop_watch.sh <time in seconds>
 
 # Example
-# stop_watch.sh 10
+# sh stop_watch.sh 10
 
 i=1
 while [ $i -lt `expr $1 + 1` ]
