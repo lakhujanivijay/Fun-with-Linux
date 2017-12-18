@@ -25,10 +25,10 @@ while [ $i -lt `expr 6 + 1` ]
 done
 clear
 
-notify-send "Happy B'day <Name goes here> ..!!" -i /home/bioinfo10.corp/Desktop/bday/hbd.png -t 0
+notify-send "Happy B'day <Name goes here> ..!!" -i /home/Desktop/bday/hbd.png -t 0
 sleep 3
-notify-send "Have a fantastic day ahead ..!!" -i /home/bioinfo10.corp/Desktop/bday/cake.png -t 0
+notify-send "Have a fantastic day ahead ..!!" -i /home/Desktop/bday/cake.png -t 0
 sleep 3
-notify-send "Where's the party tonight ..!!" -i /home/bioinfo10.corp/Desktop/bday/party.png -t 0
+notify-send "Where's the party tonight ..!!" -i /home/Desktop/bday/party.png -t 0
 sleep 3
-notify-send "Now smile ..!!" -i /home/bioinfo10.corp/Desktop/bday/obama.png -t 0
+notify-send "Now smile ..!!" -i /home/Desktop/bday/obama.png -t 0
