@@ -8,6 +8,6 @@ It's a fun script that I wrote to set up birthday notifications on my friend's P
 ### Requirements
 
 1. Linux OS (I tried on centOS v6.0)
-2. [`notify-send`] command on linux (https://ss64.com/bash/notify-send.html)
+2. [`notify-send`](https://ss64.com/bash/notify-send.html) command on linux 
 3. [This](https://github.com/lakhujanivijay/Fun_with_Linux/blob/master/Command_line_bday_pop_ups/bday_wishes.sh) shell script
 
