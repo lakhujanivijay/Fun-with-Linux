@@ -4,5 +4,5 @@
 
 This repository mainly consist of short programming stuff with linux and shell; just for fun..!!
 
-> As they say: Lastly, `/home` is where the :heart: is. 
+> As they say: Lastly, `/home` 🏡 is where the :heart: is. 
 
